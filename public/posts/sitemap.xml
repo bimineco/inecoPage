@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://localhost:1313/posts/powerbiautodesk/</loc>
+      <lastmod>2024-05-10T08:57:59+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/posts/markdown/</loc>
+      <lastmod>2024-05-10T08:57:25+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/posts/carpetaswindows/</loc>
+      <lastmod>2024-05-10T08:56:55+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/posts/blender/</loc>
+      <lastmod>2024-05-10T08:55:54+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    </urlset>

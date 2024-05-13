@@ -17,6 +17,13 @@
       <description>Etiquetas: ACC, PowerBI&#xA;La semana pasada nuestra compañera Laura Villoslada nos mostraba como crear un tablero o dashboard de PowerBI con los datos del ACC (Autodesk Construction Cloud).</description>
     </item>
     <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/blog/markdown/</link>
+      <pubDate>Mon, 13 May 2024 12:08:22 +0200</pubDate>
+      <guid>http://localhost:1313/blog/markdown/</guid>
+      <description>¿Qué es Markdown? Markdown es un lenguaje de marcado ligero que te permite formatear texto de manera fácil y rápida utilizando un formato de texto plano.</description>
+    </item>
+    <item>
       <title>CarpetasWindows</title>
       <link>http://localhost:1313/blog/carpetaswindows/</link>
       <pubDate>Mon, 13 May 2024 12:07:45 +0200</pubDate>
@@ -29,13 +36,6 @@
       <pubDate>Mon, 13 May 2024 12:06:03 +0200</pubDate>
       <guid>http://localhost:1313/blog/blender/</guid>
       <description>Blender es un programa de software de código abierto y gratuito que se utiliza para la creación de gráficos en 3D, animaciones, modelado, renderizado y más.</description>
-    </item>
-    <item>
-      <title>Example Post</title>
-      <link>http://localhost:1313/blog/example-post/</link>
-      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/blog/example-post/</guid>
-      <description>You can use blog posts for announcing product updates and features.</description>
     </item>
   </channel>
 </rss>

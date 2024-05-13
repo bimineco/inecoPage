@@ -2,9 +2,15 @@
 title: "PowerBiAutodesk"
 description: ""
 summary: ""
-date: 2024-05-10T08:57:59+02:00
-lastmod: 2024-05-10T08:57:59+02:00
+date: 2024-05-13T12:09:06+02:00
+lastmod: 2024-05-13T12:09:06+02:00
 draft: false
+weight: 50
+categories: []
+tags: []
+contributors: []
+pinned: false
+homepage: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)

@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Hyas</copyright>
-    <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 12:09:06 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerBiAutodesk</title>
+      <link>http://localhost:1313/blog/powerbiautodesk/</link>
+      <pubDate>Mon, 13 May 2024 12:09:06 +0200</pubDate>
+      <guid>http://localhost:1313/blog/powerbiautodesk/</guid>
+      <description>Etiquetas: ACC, PowerBI&#xA;La semana pasada nuestra compañera Laura Villoslada nos mostraba como crear un tablero o dashboard de PowerBI con los datos del ACC (Autodesk Construction Cloud).</description>
+    </item>
+    <item>
+      <title>CarpetasWindows</title>
+      <link>http://localhost:1313/blog/carpetaswindows/</link>
+      <pubDate>Mon, 13 May 2024 12:07:45 +0200</pubDate>
+      <guid>http://localhost:1313/blog/carpetaswindows/</guid>
+      <description>Listar el contenido de una carpeta de Windows es realmente sencillo. Veamos los pasos que debemos dar:&#xA;Abre la carpeta cuyos archivos quieres listar.</description>
+    </item>
+    <item>
+      <title>Blender</title>
+      <link>http://localhost:1313/blog/blender/</link>
+      <pubDate>Mon, 13 May 2024 12:06:03 +0200</pubDate>
+      <guid>http://localhost:1313/blog/blender/</guid>
+      <description>Blender es un programa de software de código abierto y gratuito que se utiliza para la creación de gráficos en 3D, animaciones, modelado, renderizado y más.</description>
+    </item>
     <item>
       <title>Example Post</title>
       <link>http://localhost:1313/blog/example-post/</link>

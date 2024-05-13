@@ -2,9 +2,15 @@
 title: "Markdown"
 description: ""
 summary: ""
-date: 2024-05-10T08:57:25+02:00
-lastmod: 2024-05-10T08:57:25+02:00
-draft: false
+date: 2024-05-13T12:08:22+02:00
+lastmod: 2024-05-13T12:08:22+02:00
+draft: true
+weight: 50
+categories: []
+tags: []
+contributors: []
+pinned: false
+homepage: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)

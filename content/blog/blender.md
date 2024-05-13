@@ -2,9 +2,15 @@
 title: "Blender"
 description: ""
 summary: ""
-date: 2024-05-10T08:55:54+02:00
-lastmod: 2024-05-10T08:55:54+02:00
+date: 2024-05-13T12:06:03+02:00
+lastmod: 2024-05-13T12:06:03+02:00
 draft: false
+weight: 50
+categories: []
+tags: []
+contributors: []
+pinned: false
+homepage: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
@@ -25,6 +31,5 @@ Algunas de las características clave de Blender incluyen:
 7. **Juegos:** Blender también se puede utilizar para el desarrollo de juegos, incluida la creación de modelos y entornos.
 
 Debido a su naturaleza de código abierto, Blender cuenta con una comunidad activa de usuarios y desarrolladores que contribuyen a su mejora continua. Está disponible para varias plataformas, incluyendo Windows, macOS y Linux. Blender se ha vuelto especialmente popular en la comunidad de animación y diseño 3D debido a su potencia y accesibilidad.
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H3BcVxaRgVY?si=dEMB_9NfYrBcUnfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

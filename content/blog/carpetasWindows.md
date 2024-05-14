@@ -1,5 +1,5 @@
 ---
-title: "CarpetasWindows"
+title: "Carpetas Windows"
 description: ""
 summary: ""
 date: 2024-05-13T12:07:45+02:00
@@ -7,7 +7,7 @@ lastmod: 2024-05-13T12:07:45+02:00
 draft: false
 weight: 50
 categories: []
-tags: []
+tags: ["windows", "carpetas", "organización"]
 contributors: []
 pinned: false
 homepage: false

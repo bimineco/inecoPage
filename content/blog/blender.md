@@ -7,7 +7,7 @@ lastmod: 2024-05-13T12:06:03+02:00
 draft: false
 weight: 50
 categories: []
-tags: []
+tags: ["3D", "blender", "modelos"]
 contributors: []
 pinned: false
 homepage: false

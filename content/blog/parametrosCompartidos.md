@@ -1,5 +1,5 @@
 ---
-title: "ParametrosCompartidos"
+title: "Parámetros Compartidos"
 description: ""
 summary: ""
 date: 2024-05-13T12:20:25+02:00
@@ -7,7 +7,7 @@ lastmod: 2024-05-13T12:20:25+02:00
 draft: false
 weight: 50
 categories: []
-tags: []
+tags: ["lecciones aprendidas",]
 contributors: []
 pinned: false
 homepage: false
@@ -19,8 +19,6 @@ seo:
 ---
 
 # Parámetros compartidos
-
-Etiquetas: Lecciones aprendidas
 
 En un determinado momento se pensó que era una buena idea tener un fichero de parámetros compartidos por cliente. La lección aprendida, es que esto puede generar un gran problema.
 

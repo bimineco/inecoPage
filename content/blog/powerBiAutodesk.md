@@ -1,13 +1,13 @@
 ---
-title: "PowerBiAutodesk"
-description: ""
+title: "Power Bi Autodesk"
+description: "Hello there"
 summary: ""
 date: 2024-05-13T12:09:06+02:00
 lastmod: 2024-05-13T12:09:06+02:00
 draft: false
 weight: 50
 categories: []
-tags: []
+tags: ["powerBI", "ACC", "windows"]
 contributors: []
 pinned: false
 homepage: false
@@ -17,8 +17,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
-Etiquetas: ACC, PowerBI
 
 La semana pasada nuestra compañera **Laura Villoslada** nos mostraba como crear un tablero o dashboard de PowerBI con los datos del ACC (Autodesk Construction Cloud). Gracias al conector de Datos de Autodesk Construction Cloud (ACC). Este conector permite a los usuarios de ACC integrar datos desde sus proyectos y documentos en otras plataformas y herramientas, como Power BI.
 

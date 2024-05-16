@@ -1,14 +1,14 @@
 ---
-title: "Markdown"
+title: "Tutorial de Markdown"
 description: ""
 summary: "Aprendiendo los principios de Markdown y para que sirve"
 date: 2024-05-13T12:08:22+02:00
 lastmod: 2024-05-13T12:08:22+02:00
 draft: false
 weight: 50
-categories: ["Basics", "Markdown"]
-tags: ["markdown"]
-contributors: ["Alex"]
+categories: ["Basics", "Markdown", "tutorial"]
+tags: ["Basics", "Markdown", "tutorial"]
+contributors: ["Alex", "Antonio"]
 pinned: false
 homepage: false
 seo:

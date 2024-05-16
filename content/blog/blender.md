@@ -1,14 +1,14 @@
 ---
-title: "Blender"
+title: "Tutorial de Blender"
 description: ""
-summary: ""
+summary: "Tutorial de los principios básicos de Blender"
 date: 2024-05-13T12:06:03+02:00
 lastmod: 2024-05-13T12:06:03+02:00
 draft: false
 weight: 50
-categories: []
-tags: ["3D", "blender", "modelos"]
-contributors: []
+categories: ["3D", "blender", "modelos", "tutorial"]
+tags: ["3D", "blender", "modelos", "tutorial"]
+contributors: ["Rodrigo"]
 pinned: false
 homepage: false
 seo:

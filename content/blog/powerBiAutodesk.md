@@ -1,14 +1,14 @@
 ---
 title: "Power Bi Autodesk"
-description: "Hello there"
-summary: ""
+description: ""
+summary: "Conector de Power BI de Autodesk Construction Cloud"
 date: 2024-05-13T12:09:06+02:00
 lastmod: 2024-05-13T12:09:06+02:00
 draft: false
 weight: 50
-categories: []
+categories: ["powerBI", "ACC", "windows"]
 tags: ["powerBI", "ACC", "windows"]
-contributors: []
+contributors: ["Antonio"]
 pinned: false
 homepage: false
 seo:

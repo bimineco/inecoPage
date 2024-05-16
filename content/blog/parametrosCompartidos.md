@@ -1,14 +1,14 @@
 ---
 title: "Parámetros Compartidos"
 description: ""
-summary: ""
+summary: "Lecciones aprendidas sobre parámetros compartidos en Revit"
 date: 2024-05-13T12:20:25+02:00
 lastmod: 2024-05-13T12:20:25+02:00
 draft: false
 weight: 50
-categories: []
+categories: ["lecciones aprendidas",]
 tags: ["lecciones aprendidas",]
-contributors: []
+contributors: ["Antonio"]
 pinned: false
 homepage: false
 seo:

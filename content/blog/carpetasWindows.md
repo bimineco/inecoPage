@@ -1,14 +1,14 @@
 ---
-title: "Carpetas Windows"
+title: "Listar Carpetas en Windows"
 description: ""
-summary: ""
+summary: "¿Como listar el contenido de una carpeta de Windows?"
 date: 2024-05-13T12:07:45+02:00
 lastmod: 2024-05-13T12:07:45+02:00
 draft: false
 weight: 50
-categories: []
-tags: ["windows", "carpetas", "organización"]
-contributors: []
+categories: ["windows", "carpetas", "organización", "tutorial"]
+tags: ["windows", "carpetas", "organización", "tutorial"]
+contributors: ["Alex", "Antonio"]
 pinned: false
 homepage: false
 seo:

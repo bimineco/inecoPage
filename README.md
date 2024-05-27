@@ -1,5 +1,9 @@
 # BIM Ineco
 
+Documentación y recursos sobre BIM en Ineco
+
+# Instalar y correr el proyecto
+
 ## Programas necesarios
 
 - python3

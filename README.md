@@ -29,6 +29,8 @@ npm install
 
 Para correr el proyecto, se debe ejecutar el siguiente comando:
 
+> **Nota:** Se necesita permisos de administrador para correr el proyecto. Se debe contactar con el CAU para que se le otorguen los permisos necesarios.
+
 ```bash
 npm run dev
 ```
